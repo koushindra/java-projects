@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;final_class.java&apos; to &apos;Reflection/src/com.koushi.main&apos;&#x0D;&#x0A;- Original project: &apos;final_keyword&apos;&#x0D;&#x0A;- Destination element: &apos;Reflection/src/com.koushi.main&apos;&#x0D;&#x0A;- Original element: &apos;final_pro.final_class.java&apos;" description="Copy compilation unit" destination="=Reflection/src&lt;com.koushi.main" element1="/src&lt;final_pro{final_class.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1478240191401" units="1" version="1.0"/>
+</session>

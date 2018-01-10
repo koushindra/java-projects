@@ -1,0 +1,52 @@
+//Ctrl+Shift+L to view listing for all Eclipse keyboard shortcuts.*************/
+
+//A shortcut to select a line in Eclipse-----
+ i use is Home, then Shift+End, that will go to the beginning of the line and 
+then select until the end, which effectively selects the whole line. 
+or second way is-----
+Hold Alt and press ↑ and ↓.
+Alt + ↑ and ↓ will move an entire line up or down, so just move it back and you end up with the entire line selected. **********/
+
+// Ctrl+/ for comment single line by '//'
+//Ctrl+Shift+/ for commenting a block by /*   */ 
+
+
+
+ *******Control + H: Search Your Entire Project
+ **********Control + F11: Run
+ ***********Alt + Shift + R: Rename
+       Ctrl + Shift + R for finding any resource (file) including config xml files
+       Ctrl + Shift + T for finding class even from jar
+ Ctrl + 1 for quick fix
+ 
+  Ctrl + o for quick outline going quickly to method
+           
+            Alt + right and Alt + left for going back and forth while editing.
+            Alt + Shift + W for show in package explorer
+  
+  Ctrl + Shift + Up and down for navigating from member to member (variables and methods)
+  Ctrl + k and Ctrl + Shift +K for find next/previous
+  
+  Go to a type declaration: F3, This Eclipse shortcut is very useful to 
+   see function definition very quickly.
+
+
+Eclipse Shortcut for Editing Code
+
+These Eclipse shortcuts are very helpful for editing code in Eclipse.
+        Ctrl + / for commenting, uncommenting lines and blocks, see here for live example.
+        Ctrl + Shift + / for commenting, uncommenting lines with block comment, see here for example.
+
+ Selecting class and pressing F4 to see its Type hierarchy
+ Ctrl + F4 or Ctrl + w for closing current file
+
+       Ctrl+Shirt+W for closing all files.
+       Ctrl + l go to line
+
+ Select text and press Ctrl + Shift + F for formatting.
+ Ctrl + F for find, find/replace
+
+    Ctrl + D to delete a line
+    Ctrl + Q for going to last edited place
+
+

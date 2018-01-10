@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 3 elements from project &apos;WebBrowser&apos;&#x0D;&#x0A;- Original project: &apos;WebBrowser&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     WebBrowser/src/rysoft.gui.actions&#x0D;&#x0A;     WebBrowser/src/rysoft.gui.MDIWebbrowser&#x0D;&#x0A;     WebBrowser/src/rysoft.gui.splitpane" description="Delete elements" element1="/src&lt;rysoft.gui.splitpane" element2="/src&lt;rysoft.gui" element3="/src&lt;rysoft" element4="/src&lt;rysoft.gui.actions" element5="/src&lt;rysoft.gui" element6="/src&lt;rysoft" element7="/src&lt;rysoft.gui.MDIWebbrowser" element8="/src&lt;rysoft.gui" element9="/src&lt;rysoft" elements="9" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1476495753803" subPackages="false" version="1.0"/>
+</session>

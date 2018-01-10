@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Main.java&apos; to &apos;jdbc_pro/src/jdbc_pro&apos;&#x0D;&#x0A;- Original project: &apos;jdbc&apos;&#x0D;&#x0A;- Destination element: &apos;jdbc_pro/src/jdbc_pro&apos;&#x0D;&#x0A;- Original element: &apos;jdbc.Main.java&apos;" description="Copy compilation unit" destination="=jdbc_pro/src&lt;jdbc_pro" element1="/src&lt;jdbc{Main.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1466701497273" units="1" version="1.0"/>
+</session>

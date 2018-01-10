@@ -1,0 +1,29 @@
+package com.info.main;
+class Student
+{
+	int roll;
+	String name;
+	
+	Student(int roll, String name)
+	{
+		this.roll=roll;
+		this.name=name;
+	}
+	
+	public void show()
+	{
+		System.out.println(" Roll: "+roll+"   Name: "+name);
+	}
+}
+public class Cons
+{
+
+		public static void main(String[] args)
+		{
+		   Student st=new Student(53,"koushi");
+		   st.show();
+		   
+		   new Student(43,"gujjar").show();;;;;;;;;;;;;;;;;;;;;;
+		   
+		}
+}

@@ -1,0 +1,42 @@
+package com.info.main;
+class Student
+{
+	int roll;
+static	String name;
+	
+	/*Student(int roll, String name)
+	{
+		this.roll=roll;
+		this.name=name;
+	}
+	
+	Student(int rollno)   ////////   // Constructor overloading occurs as method overloading 
+	{
+		roll=rollno;
+	}*/
+	
+	public void show()
+	{
+		System.out.println(" Roll: "+roll+"   Name: "+name);
+	}
+}
+public class Cons
+{
+
+		public static void main(String[] args)
+		{
+		  /* Student st=new Student(53,"koushi");*/
+			Student st=new Student();
+			  st.roll=4324;
+		//	  Student.roll=342;  error due to non-static
+			  Student.name="koushindra";
+			  st.show();
+			
+		//   Student st2=new Student(3453);
+	//	   st.show();
+		//   st2.show();
+		   
+		//   new Student(43,"gujjar").show();;;;;;;;;;;;;;;;;;;;;;//Annonyms object: can be used only once
+		   
+		}
+}

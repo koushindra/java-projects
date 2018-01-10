@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;ds_exception_pro&apos; to &apos;dsft.exception_pro&apos;&#x0D;&#x0A;- Original project: &apos;Exception_handling&apos;&#x0D;&#x0A;- Original element: &apos;Exception_handling/src/ds_exception_pro&apos;&#x0D;&#x0A;- Renamed element: &apos;Exception_handling/src/dsft.exception_pro&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;ds_exception_pro&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;ds_exception_pro" name="dsft.exception_pro" qualified="false" references="true" stamp="1458928015571" textual="false" version="1.0"/>
+</session>

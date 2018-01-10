@@ -1,0 +1,25 @@
+				what is upcasting?
+				what is downcasting?
+				why downcasting is not always make sense? or tell the disadvantage of downcasting?
+				how to avoid ClassCastException while downcasting?
+				give the definition of 'instanceof' operatior?
+				why instanceof operator is used?
+
+what is aggregation?
+give the difference b/w Aggregation and inheritence? give 5 example for aggregation and inheritence .
+Give the difference b/w Static members and inherited members.
+How many copies of inherited members are created throughout the program?
+
+			Is constructor inherited? if no then why?
+			is static member inherited? can child class access static properties of parent class.
+			Is parent class constructor always called before child class constructor? describes cases.
+			In which we have to specify explicitly , Default constructor or Parameterized Constructor ? and why?
+
+
+in case of duplicacy when we shold use SUPER and when we use THIS keyword?
+Is super keyword a reference variable? give definition and at least three example of super keyword?
+which can be invoked by SUPER reference variable---
+       a.parent class instance variable   b. parent class constructor c.parent class constructor  d. all of these
+       
+      what is polymorphism?
+      Describe the effect of return type of method, number, sequence and type of argument in method.

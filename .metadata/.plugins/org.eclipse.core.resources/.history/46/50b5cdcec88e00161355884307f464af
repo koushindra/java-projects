@@ -1,0 +1,32 @@
+package com.info.main.first;
+
+import javax.swing.ButtonGroup;
+import javax.swing.GroupLayout.Group;
+import javax.swing.JFrame;
+import javax.swing.JRadioButton;
+
+public class RadioButtons 
+{
+	public static void main(String[] args)
+	{
+		JFrame jf=new JFrame();
+		jf.setVisible(true);
+		jf.setBounds(200,200,400,300);
+		jf.setLayout(null);
+		
+		JRadioButton a=new JRadioButton();
+		JRadioButton b=new JRadioButton();
+		
+		a.setBounds(200,100,50,50);
+		b.setBounds(200,150,50,50);
+		
+	   ButtonGroup bg=new ButtonGroup();
+	   bg.add(a);
+	   bg.add(b);
+	   
+	   jf.add(a);
+	   jf.add(b);
+	   
+	   jf.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+	}
+}
